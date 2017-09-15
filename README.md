@@ -1,6 +1,7 @@
 # Expenser-android-app
-personal accounting assistant app on android
-The app offers three functions:
+Personal Accounting Assistant App on android
+
+The app offers three major functions:
 
 1: Smart Scan
 Scan receipts to record expense details, including total amount, transaction date, expense category, intelligently.
