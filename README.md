@@ -11,3 +11,5 @@ Split bill with Facebook friends and send them notifications via Messenger.
 
 3: Summary
 Show expense summary and details per category by month.
+
+YouTube: https://youtu.be/21jxxSsnM3o
